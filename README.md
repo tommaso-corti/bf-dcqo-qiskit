@@ -1,6 +1,6 @@
 # BF-DCQO with Qiskit
 
-Implementation and benchmark of **Bias-Field Digitized Counterdiabatic Quantum Optimization (BF-DCQO)** applied to Portfolio Optimization on real S&P 500 data, built as a companion to [this Medium article](https://medium.com/@corti.tommaso/i-rebuilt-a-quantum-algorithm-from-the-equations-up-it-kept-trying-to-fool-me-c8262f7bef1a?postPublishedType=repub).
+Implementation of **Bias-Field Digitized Counterdiabatic Quantum Optimization (BF-DCQO)** applied to Portfolio Optimization on real S&P 500 data, built as a companion to [this Medium article](https://medium.com/@corti.tommaso/i-rebuilt-a-quantum-algorithm-from-the-equations-up-it-kept-trying-to-fool-me-c8262f7bef1a?postPublishedType=repub).
 
 ## What this is
 
